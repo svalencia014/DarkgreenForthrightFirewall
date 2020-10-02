@@ -1,0 +1,10 @@
+<h1> - Big Header
+<h2> - Medium Header
+<h3> - Smol header
+<p> - Normal Text
+<b> - Bold
+<i> - itallics
+<u> - underline
+ALWAYS END WITH /
+EXAMPLE:
+<p> this is a paragraph </p>
