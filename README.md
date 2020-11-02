@@ -7,3 +7,4 @@ All of this including my itch.io profile which is being updated all the time wit
 Anyway, this is the literal index(.html) of the site. There are not too many files as this is not too advanced. 
 [url=https://imgbb.com/][img]https://i.ibb.co/6nvzBGv/Screenshot-2020-11-02-at-9-32-02-AM.png[/img][/url]
 There are a couple of CSS files, but its mainly HTML as that is the only language that is website related that I know. I only know HTML, not CSS, and some JS.
+Eventually I will get some CSS in there making the site look good but until then you just have what it is now.
