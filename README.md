@@ -5,5 +5,5 @@ I am currently working mainly on this project and two others. My main focus is o
 Once that is done I will focus more on the Visual Basic/Blueprint game called card fight (On my github profile) as well as a HTML5 Rhythm game that is just formatted correctly in the code editor without any actual code to make the site. 
 All of this including my itch.io profile which is being updated all the time with my game library.
 Anyway, this is the literal index(.html) of the site. There are not too many files as this is not too advanced. 
-![alt text](https://ibb.co/ZLH5mvH)
+[url=https://imgbb.com/][img]https://i.ibb.co/6nvzBGv/Screenshot-2020-11-02-at-9-32-02-AM.png[/img][/url]
 There are a couple of CSS files, but its mainly HTML as that is the only language that is website related that I know. I only know HTML, not CSS, and some JS.
