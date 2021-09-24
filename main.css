@@ -13,3 +13,30 @@
   width: 100%;
   height: 2.5rem;            /* Footer height */
 }
+
+img {
+	border-radius:500px;
+	height:100px;
+	width:100px;
+}
+
+h1 {
+	display:inline;
+}
+
+body {
+	background-color:#fc7aca;
+}
+
+button {
+	border-style:solid;
+	border-width:10px;
+	border-color: #000000;
+	background-color: #fc7aca;
+	-webkit-text-fill-color:black;
+	border-radius: 30px;
+}
+
+.a {
+	border-radius: 5px;
+}
