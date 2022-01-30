@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+.topnav {
+	overflow: hidden;
+	padding: 0px; 
+	background-color: #3a3434;
+	font-family: 'Sedgwick Ave', 'cursive';
+}
+
+.topnav a {
+	float: left;
+	color: #fc7aca;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 40px;
+}
+
+.topnav a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.topnav a.active {
+	background-color: #66746f;
+	color: white;
+}
+
+img {
+	border-radius:500px;
+	height:75px;
+	width:75px;
+	float: right;
+}
+
+body {
+	background-color:#fc7aca;
+	margin: 0;
+}
+
+button {
+	border-style:solid;
+	border-width:10px;
+	border-color: #000000;
+	background-color: #fc7aca;
+	-webkit-text-fill-color:black;
+	border-radius: 30px;
+}
+
+p {
+	font-family: 'Staatliches', 'cursive';
+}
+
+hr {
+	color: black;
+	background-color: black;
+	height: 3px;
+}
