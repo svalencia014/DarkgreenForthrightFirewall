@@ -3,4 +3,12 @@ The original version was just a hyperlink that said that you voted. When v1 was 
 There are a couple of CSS files, but its mainly HTML as that is the only language that is website related that I know. I only know HTML, not CSS, and some JS.
 Eventually I will get some CSS in there making the site look good but until then you just have what it is now. 
 
-a;lkjdsiwsk
+<hr>
+
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
